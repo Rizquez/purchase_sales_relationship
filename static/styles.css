@@ -1,0 +1,21 @@
+.cuerpo
+{
+    background: #0f0c29; 
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29); 
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29); 
+}
+
+.img_err_body, .img_err_html
+{
+    height: 100%;
+    margin: 0;
+}
+
+.img_err_bg
+{
+    background-image: url('https://cdn2.hubspot.net/hubfs/242200/shutterstock_774749455.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

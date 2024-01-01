@@ -1,10 +1,12 @@
 # Purchase Sales Relationship (en desarrollo)
 
-Este proyecto, desarrollado con el framework Flask, está diseñado para optimizar la gestión de relaciones de compra-venta entre tres tipos de perfiles: cliente, proveedor y administrador. La plataforma permite a cada usuario visualizar gráficos relacionales detallados, que muestran el ciclo de transacciones del último año.
+Este proyecto, desarrollado con el framework Flask, está diseñado para optimizar la gestión de relaciones de compra-venta para un perfil de administrador. La plataforma permite al usuario visualizar gráficos relacionales detallados, que muestran el ciclo de transacciones de cada producto, asi como informacion relacionada con cada producto.
+
+> [!NOTE]
+El conjunto de datos se pueden conseguir en la web Kaggle mediante la URL https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset/data?select=amazon.csv.
 
 > [!IMPORTANT]
 Este proyecto es de caracter educativo y sirve para seguir avanzando en los conceptos sobre el Framework Flask, asi como el desarrollo de paginas WEB y el uso de herramientas para el manejo y visualizacion de datos.
-
 
 ## Creacion del entorno de virtual:
 Se necesitara tener instalada previamente la libreria 'virtualenv', en caso contrario se podra instalar ejecutando el siguiente comando:
